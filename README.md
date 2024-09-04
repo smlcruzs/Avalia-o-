@@ -1,2 +1,2 @@
-# Avalia-o-
+# Avalia
 Teste de processo seletivo
